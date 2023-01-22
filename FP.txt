@@ -1,6 +1,6 @@
 ﻿This is financial Report of 2019-2020
 
-By Akash Prasad for NLP Practice
+By Akash Prasad for NLP Practice:
 1. FP.txt tokenzie
 2. Tweets regx analysis 
 
