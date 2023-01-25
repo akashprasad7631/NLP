@@ -4,7 +4,7 @@ By Akash Prasad for NLP Practice:
 1. FP.txt tokenzie
 2. Tweets regx analysis 
 3.wordtovec
-
+Paypal 
 The share of large borrowers in Indian banks’ total loan portfolios stood at 53% as on March 2019
 
 The gross non-performing assets (NPAs) as a percentage of total loans stood at 9.3% as on March 2019
