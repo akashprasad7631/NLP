@@ -7,7 +7,7 @@ The gross non-performing assets (NPAs) as a percentage of total loans stood at 9
 
 Mumbai: Indian banks continue to see an improvement in asset quality with bad loans as a percentage of total loans expected to fall to 9% by March 2020, according to the Financial Stability Report released by the Reserve Bank of India (RBI) on Thursday.
 
-The gross non-performing assets (NPAs) as a percentage of total loans stood at 9.3% as on March 2019.
+The gross non-performing assets (NPA) as a percentage of total loans stood at 9.3% as on March 2019.
 
 According to the bi-annual report, stress tests done on public sector banks (PSBs) revealed that gross non-performing ratio may decline to 12% by March 2020 from 12.6% in March 2019. Private sector banks too could see a fall in gross NPAs to 3.2% from 3.7% during the same period.
 
